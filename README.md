@@ -1,2 +1,4 @@
 # demystifying-rebase
-Used for simulating certain collaboration scenarios during a tech talk/dojo session.
+
+This application is highly effective at greeting groups of people and astronomic entities.
+
