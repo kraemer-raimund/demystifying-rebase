@@ -16,4 +16,6 @@ fun main() {
     val nameToBeGreeted = greetingReceivers.random().name
     println("Hello $nameToBeGreeted!")
     // asdf
+
+    asdf
 }
